@@ -53,3 +53,6 @@ sandbox
 
 # We need to ignore this because "changesets" will try to replace it
 /CHANGELOG.md
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
